@@ -7,4 +7,6 @@
 1) Загрузка актуальных адресов страниц товаров из тектового файла
 2) Загрузка страниц и поиск нужного значения цены по заданой фразе (кусок кода страницы)
 
-[бот](https://github.com/AlKrainev/Price-parser/blob/main/8671A0A0-DA7D-4DA9-A8D5-BE0F805BD271_1_102_o.jpeg)
+<img src="8671A0A0-DA7D-4DA9-A8D5-BE0F805BD271_1_102_o.jpeg" width="250">
+
+<img src="8671A0A0-DA7D-4DA9-A8D5-BE0F805BD271_1_102_o.jpeg" width="250">
